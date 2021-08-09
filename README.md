@@ -1,4 +1,4 @@
-### Welcome to my github, where ideas becomes code :computer:
+### Welcome to my GitHub page, where ideas becomes code :computer:
 
 Using my knowledge in React, Javascript and NodeJS to create web apps that can be fun and simple to use, solve problems and makes user's lives a little better/easier.
 
