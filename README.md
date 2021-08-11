@@ -2,7 +2,7 @@
 
 Using my knowledge in React, Javascript and NodeJS to create web apps that can be fun and simple to use, solve problems and makes user's lives a little better/easier.
 
-- :wrench: I’m currently working on finishing the Driven's FullStack Bootcamp
+- :wrench: I’m currently working on finishing a FullStack Bootcamp
 - :books: I’m currently learning Typescript
 - 💬 Ask me about anything
 
