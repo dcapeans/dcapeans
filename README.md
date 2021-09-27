@@ -2,7 +2,6 @@
 
 Using my knowledge in React, Javascript and NodeJS to create web apps that can be fun and simple to use, solve problems and makes user's lives a little better/easier.
 
-- :wrench: I'm currently learning full stack web development
 - :books: I’m currently learning PHP
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love to paint miniatures
