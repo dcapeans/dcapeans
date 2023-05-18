@@ -2,9 +2,9 @@
 
 Using my knowledge in React, Javascript and NodeJS to create web apps that can be fun and simple to use, solve problems and makes user's lives a little better/easier.
 
-- :books: I’m currently learning PHP
+- :books: I’m currently learning C#
 - 💬 Ask me about anything
-- ⚡ Fun fact: I love to paint miniatures
+- ⚡ Fun fact: I love pizza and painting miniatures
 
 ### Languages and Tools:
 
